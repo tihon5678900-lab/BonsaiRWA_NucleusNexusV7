@@ -1,0 +1,6 @@
+# Secrets - KHONG BAO GIO COMMIT
+.env
+**/service_account*.json
+**/private_key*
+**/*credentials*.json
+__pycache__/
